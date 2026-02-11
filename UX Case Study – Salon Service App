@@ -1,0 +1,85 @@
+Target Users:-
+Working professionals who prefer quick and convenient online booking
+College students who want easy access to salon services
+Busy individuals who don’t want to book appointments through calls
+Users looking for flexible scheduling and rescheduling options
+This app is designed for mobile-first users who value speed, clarity, and convenience.
+
+Booking Flow Logic:-
+The booking flow is designed step-by-step to reduce confusion and make decisions easy.
+
+Flow Structure:
+1- Onboarding (Login / Sign Up / OTP)
+    Secure and quick authentication
+    OTP verification ensures trust and security
+2- Dashboard (Service Category Screen)
+    Users see available service categories immediately
+    Visual cards improve scannability
+    Reduces time to find the desired service
+3- Service Detail Page
+    Displays service description, duration, price
+    Helps users make informed decisions before booking
+4- Select Specialist
+    Shows a list of available specialists
+    Builds trust through profile and ratings (if added)
+    Allows personalization
+5- Select Date & Time
+    Shows available slots only
+    Prevents double booking
+    Reduces user frustration
+6- Booking Summary
+    Shows complete details:
+    Service
+    Specialist
+    Date & Time
+    Price
+    Allows users to review before confirming
+    Reduces errors
+7- Confirmation Page
+    Booking success message
+    Provides assurance and clarity
+    Builds user confidence
+8- Booking History
+    Separate tabs for:
+    Upcoming bookings
+    Past bookings
+    Helps users track appointments easily
+9- Reschedule Page
+    Allows users to modify the date/time
+    Improves flexibility
+    Reduces cancellation rates
+10- Notification Page
+    Sends reminders
+    Keeps users updated about booking status
+    Improves engagement
+
+UX Decisions & Rationale:-
+
+1. Step-by-Step Booking
+The booking flow is divided into multiple screens to prevent overwhelming the user.
+Reason: Improves clarity and reduces drop-offs.
+
+2. Clear Information Hierarchy
+Each screen has one primary action.
+Reason: Helps users focus and complete tasks faster.
+
+3. Booking Summary Before Confirmation
+Users review all booking details before final confirmation.
+Reason: Prevents errors and increases trust.
+
+4. Separate Booking History (Upcoming & Past)
+Bookings are categorised for easy tracking.
+Reason: Improves accessibility and management.
+
+5. Reschedule Feature
+Users can modify appointments instead of cancelling and rebooking.
+Reason: Increases flexibility and user satisfaction.
+
+How This Design Improves User Experience:-
+
+Reduces booking time
+Minimizes confusion
+Provides transparency (price, duration, specialist)
+Allows flexible scheduling
+Improves trust with confirmation and notifications
+Enhances overall usability through structured navigation
